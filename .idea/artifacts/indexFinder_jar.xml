@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="indexFinder:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/indexFinder_jar</output-path>
+    <root id="archive" name="indexFinder.jar">
+      <element id="module-output" name="indexFinder" />
+    </root>
+  </artifact>
+</component>
